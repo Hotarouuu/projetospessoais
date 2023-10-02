@@ -1,0 +1,2 @@
+# projetospessoais
+Projeto prática = PROGRAMA ESCOLAR PARA ARMAZENAMENTO E CALCULO DE MÉDIA
